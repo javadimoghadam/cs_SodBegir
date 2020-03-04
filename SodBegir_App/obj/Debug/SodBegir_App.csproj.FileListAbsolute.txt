@@ -1,0 +1,10 @@
+C:\Users\ali\source\repos\SodBegir_App\SodBegir_App\bin\Debug\SodBegir_App.exe.config
+C:\Users\ali\source\repos\SodBegir_App\SodBegir_App\bin\Debug\SodBegir_App.exe
+C:\Users\ali\source\repos\SodBegir_App\SodBegir_App\bin\Debug\SodBegir_App.pdb
+C:\Users\ali\source\repos\SodBegir_App\SodBegir_App\obj\Debug\SodBegir_App.csprojAssemblyReference.cache
+C:\Users\ali\source\repos\SodBegir_App\SodBegir_App\obj\Debug\SodBegir_App.Form1.resources
+C:\Users\ali\source\repos\SodBegir_App\SodBegir_App\obj\Debug\SodBegir_App.Properties.Resources.resources
+C:\Users\ali\source\repos\SodBegir_App\SodBegir_App\obj\Debug\SodBegir_App.csproj.GenerateResource.cache
+C:\Users\ali\source\repos\SodBegir_App\SodBegir_App\obj\Debug\SodBegir_App.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\SodBegir_App\SodBegir_App\obj\Debug\SodBegir_App.exe
+C:\Users\ali\source\repos\SodBegir_App\SodBegir_App\obj\Debug\SodBegir_App.pdb
